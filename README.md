@@ -1,6 +1,6 @@
 # I'm Pedro! 
 <div align="center">
-🎓 Computer Science Student |🌱 Learning every day
+🎓 Computer Science Student | Learning every day 💪
 </div>
 <div> </div>
 <div align="center">
