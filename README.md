@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+# I'm Pedro! 
 
-🎓 Computer Science Student | 💻 Passionate about coding | 🌱 Learning every day
+🎓 Computer Science Student |🌱 Learning every day
 
 ## 🛠️ Technologies & Tools
 
